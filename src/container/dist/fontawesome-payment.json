@@ -1,0 +1,50 @@
+ [
+	{
+	 "icon_name":"cc-amex",
+	 "icon_class":"fa fa-cc-amex"
+	},
+	{
+	 "icon_name":"cc-diners-club",
+	 "icon_class":"fa fa-cc-diners-club"
+	},
+	{
+	 "icon_name":"cc-discover",
+	 "icon_class":"fa fa-cc-discover"
+	},
+	{
+	 "icon_name":"cc-jcb",
+	 "icon_class":"fa fa-cc-jcb"
+	},
+	{
+	 "icon_name":"cc-mastercard",
+	 "icon_class":"fa fa-cc-mastercard"
+	},
+	{
+	 "icon_name":"cc-paypal",
+	 "icon_class":"fa fa-cc-paypal"
+	},
+	{
+	 "icon_name":"cc-stripe",
+	 "icon_class":"fa fa-cc-stripe"
+	},
+	{
+	 "icon_name":"cc-visa",
+	 "icon_class":"fa fa-cc-visa"
+	},
+    {
+	 "icon_name":"credit-card",
+	 "icon_class":"fa fa-credit-card"
+	},
+	{
+	 "icon_name":"credit-card-alt",
+	 "icon_class":"fa fa-credit-card-alt"
+	},
+	{
+	 "icon_name":"google-wallet",
+	 "icon_class":"fa fa-google-wallet"
+	},
+	{
+	 "icon_name":"paypal",
+	 "icon_class":"fa fa-paypal"
+	}
+]

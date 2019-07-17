@@ -1,0 +1,40 @@
+.header-menu-list li a {
+	padding: 6px 12px;
+	font-weight: lighter;
+	color: #4608ad;
+	display: block;
+}
+.header-menu-list li {
+	vertical-align: middle;
+	display: inline-block;
+}
+.header-menu-list {
+	display: inline-block;
+	width: auto;
+}
+.header-navigation {
+	text-align: right;
+}
+.header-navbar {
+	padding: 10px 0;
+}
+.logo-section {
+	display: inline-block;
+	width: 200px;
+	vertical-align: middle;
+}
+.logo-text {
+	color: #4608ad;
+	font-size: 24px;
+	font-weight: 700;
+	margin: 0;
+}
+.logo-text strong {
+	font-weight: lighter;
+}
+.header-navigation {
+	text-align: right;
+	vertical-align: middle;
+	width: calc(100% - 200px);
+	display: inline-block;
+}

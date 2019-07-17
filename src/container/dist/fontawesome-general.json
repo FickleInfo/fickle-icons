@@ -1,0 +1,90 @@
+ [
+	{
+	 "icon_name":"glass",
+	 "icon_class":"fa fa-glass"
+	},
+	{
+	 "icon_name":"music",
+	 "icon_class":"fa fa-music"
+	},
+	{
+	 "icon_name":"search",
+	 "icon_class":"fa fa-search"
+	},
+	{
+	 "icon_name":"envelope",
+	 "icon_class":"fa fa-envelope-o"
+	},
+	{
+	 "icon_name":"heart",
+	 "icon_class":"fa fa-heart"
+	},
+	{
+	 "icon_name":"star",
+	 "icon_class":"fa fa-star"
+	},
+	{
+	 "icon_name":"star-open",
+	 "icon_class":"fa fa-star-o"
+	},
+	{
+	 "icon_name":"user",
+	 "icon_class":"fa fa-user"
+	},
+	{
+	 "icon_name":"film",
+	 "icon_class":"fa fa-film"
+	},
+	{
+	 "icon_name":"table-head",
+	 "icon_class":"fa fa-th-large"
+	},
+	{
+	 "icon_name":"table-head",
+	 "icon_class":"fa fa-th"
+	},
+	{
+	 "icon_name":"list",
+	 "icon_class":"fa fa-th-list"
+	},
+	{
+	 "icon_name":"check",
+	 "icon_class":"fa fa-check"
+	},
+	{
+	 "icon_name":"remove",
+	 "icon_class":"fa fa-remove"
+	},
+	{
+	 "icon_name":"close",
+	 "icon_class":"fa fa-close"
+	},
+	{
+	 "icon_name":"cross",
+	 "icon_class":"fa fa-times"
+	},
+	{
+	 "icon_name":"search-plus",
+	 "icon_class":"fa fa-search-plus"
+	},
+	{
+	 "icon_name":"search-minus",
+	 "icon_class":"fa fa-search-minus"
+	},
+	{
+	 "icon_name":"power-off",
+	 "icon_class":"fa fa-power-off"
+	},
+	{
+	 "icon_name":"signal",
+	 "icon_class":"fa fa-signal"
+	},
+	{
+	 "icon_name":"gear",
+	 "icon_class":"fa fa-gear"
+	},
+	{
+	 "icon_name":"cog",
+	 "icon_class":"fa fa-cog"
+	}
+]

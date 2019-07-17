@@ -1,0 +1,18 @@
+ [
+	{
+	 "icon_name":"heart",
+	 "icon_class":"fa fa-heart"
+	},
+	{
+	 "icon_name":"facebook",
+	 "icon_class":"fa fa-facebook"
+	},
+	{
+	 "icon_name":"user",
+	 "icon_class":"fa fa-user"
+	},
+	{
+	 "icon_name":"users",
+	 "icon_class":"fa fa-users"
+	}
+]

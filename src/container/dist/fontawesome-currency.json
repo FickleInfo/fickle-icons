@@ -1,0 +1,109 @@
+ [
+	{
+	 "icon_name":"bitcoin",
+	 "icon_class":"fa fa-bitcoin"
+	},
+	{
+	 "icon_name":"btc",
+	 "icon_class":"fa fa-btc"
+	},
+	{
+	 "icon_name":"cny",
+	 "icon_class":"fa fa-cny"
+	},
+	{
+	 "icon_name":"dollar",
+	 "icon_class":"fa fa-dollar"
+	},
+	{
+	 "icon_name":"euro",
+	 "icon_class":"fa fa-eur"
+	},
+	{
+	 "icon_name":"euro",
+	 "icon_class":"fa fa-euro"
+	},
+	{
+	 "icon_name":"gbp",
+	 "icon_class":"fa fa-gbp"
+	},
+	{
+	 "icon_name":"gg",
+	 "icon_class":"fa fa-gg"
+	},
+	{
+	 "icon_name":"gg-circle",
+	 "icon_class":"fa fa-gg-circle"
+	},
+	{
+	 "icon_name":"ils",
+	 "icon_class":"fa fa-ils"
+	},
+	{
+	 "icon_name":"inr",
+	 "icon_class":"fa fa-inr"
+	},
+	{
+	 "icon_name":"jpy",
+	 "icon_class":"fa fa-jpy"
+	},
+	{
+	 "icon_name":"krw",
+	 "icon_class":"fa fa-krw"
+	},
+	{
+	 "icon_name":"cash",
+	 "icon_class":"fa fa-money"
+	},
+	{
+	 "icon_name":"rmb",
+	 "icon_class":"fa fa-rmb"
+	},
+	{
+	 "icon_name":"rouble",
+	 "icon_class":"fa fa-rouble"
+	},
+	{
+	 "icon_name":"rub",
+	 "icon_class":"fa fa-rub"
+	},
+	{
+	 "icon_name":"ruble",
+	 "icon_class":"fa fa-ruble"
+	},
+	{
+	 "icon_name":"rupee",
+	 "icon_class":"fa fa-rupee"
+	},
+	{
+	 "icon_name":"shekel",
+	 "icon_class":"fa fa-shekel"
+	},
+	{
+	 "icon_name":"sheqel",
+	 "icon_class":"fa fa-sheqel"
+	},
+	{
+	 "icon_name":"try",
+	 "icon_class":"fa fa-try"
+	},
+	{
+	 "icon_name":"turkish-lira",
+	 "icon_class":"fa fa-turkish-lira"
+	},
+	{
+	 "icon_name":"usd",
+	 "icon_class":"fa fa-usd"
+	},
+	{
+	 "icon_name":"viacoin",
+	 "icon_class":"fa fa-viacoin"
+	},{
+	 "icon_name":"won",
+	 "icon_class":"fa fa-won"
+	},
+	{
+	 "icon_name":"yen",
+	 "icon_class":"fa fa-yen"
+	}
+]

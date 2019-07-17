@@ -1,0 +1,21 @@
+.row-container .mar-b-30 {
+	margin-bottom: 30px;
+}
+.btn-cls.btn-md {
+	font-size: 1rem;
+	font-weight: lighter;
+	min-width: 120px;
+	line-height: 36px;
+	padding: 0 1rem;
+}
+.btn-icon.refresh-btn {
+	margin-right: 10px;
+}
+.btn-icon {
+	background: transparent;
+	color: #2E7EED;
+	border: none;
+	width: 40px;
+	min-height: 42px;
+	font-size: 1.2rem;
+}

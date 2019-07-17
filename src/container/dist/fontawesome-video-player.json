@@ -1,0 +1,98 @@
+ [
+	{
+	 "icon_name":"arrows-alt",
+	 "icon_class":"fa fa-arrows-alt"
+	},
+	{
+	 "icon_name":"backward",
+	 "icon_class":"fa fa-backward"
+	},
+	{
+	 "icon_name":"compress",
+	 "icon_class":"fa fa-compress"
+	},
+	{
+	 "icon_name":"eject",
+	 "icon_class":"fa fa-eject"
+	},
+	{
+	 "icon_name":"expand",
+	 "icon_class":"fa fa-expand"
+	},
+	{
+	 "icon_name":"fast-backward",
+	 "icon_class":"fa fa-fast-backward"
+	},
+	{
+	 "icon_name":"fast-forward",
+	 "icon_class":"fa fa-fast-forward"
+	},
+	{
+	 "icon_name":"forward",
+	 "icon_class":"fa fa-forward"
+	},
+	{
+	 "icon_name":"pause",
+	 "icon_class":"fa fa-pause"
+	},
+	{
+	 "icon_name":"pause-circle",
+	 "icon_class":"fa fa-pause-circle"
+	},
+	{
+	 "icon_name":"pause-circle-o",
+	 "icon_class":"fa fa-pause-circle-o"
+	},
+	{
+	 "icon_name":"play",
+	 "icon_class":"fa fa-play"
+	},
+	{
+	 "icon_name":"play-circle",
+	 "icon_class":"fa fa-play-circle"
+	},
+	{
+	 "icon_name":"random",
+	 "icon_class":"fa fa-random"
+	},
+	{
+	 "icon_name":"step-backward",
+	 "icon_class":"fa fa-step-backward"
+	},
+	{
+	 "icon_name":"step-forward",
+	 "icon_class":"fa fa-step-forward"
+	},
+	{
+	 "icon_name":"play-circle-o",
+	 "icon_class":"fa fa-play-circle-o"
+	},
+	{
+	 "icon_name":"random",
+	 "icon_class":"fa fa-random"
+	},
+	{
+	 "icon_name":"step-backward",
+	 "icon_class":"fa fa-step-backward"
+	},
+	{
+	 "icon_name":"step-forward",
+	 "icon_class":"fa fa-step-forward"
+	},
+	{
+	 "icon_name":"stop",
+	 "icon_class":"fa fa-stop"
+	},
+	{
+	 "icon_name":"stop-circle",
+	 "icon_class":"fa fa-stop-circle"
+	},
+	{
+	 "icon_name":"stop-circle-o",
+	 "icon_class":"fa fa-stop-circle-o"
+	},
+	{
+	 "icon_name":"youtube-play",
+	 "icon_class":"fa fa-youtube-play"
+	}
+]

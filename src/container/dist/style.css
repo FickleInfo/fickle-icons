@@ -1,0 +1,246 @@
+.react-fickle-icons-content li {
+	padding: 10px;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	display: inline-block;
+	max-width: 16.66%;
+	flex: 0 0 16.66%;
+}
+.react-fickle-icons-content ul {
+	margin: 0 -10px;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-pack: centers;
+	justify-content: left;
+	-ms-flex-line-pack: center;
+	align-content: center;
+	text-align: center;
+	flex-wrap: wrap;
+}
+.react-fickle-icons-item {
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	width: 100%;
+	height: 75px;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-pack: center;
+	justify-content: center;
+	-ms-flex-line-pack: center;
+	align-content: center;
+	padding: 12px 12px;
+	text-align: left;
+	-webkit-transition: 0.4s ease all;
+	-o-transition: 0.4s ease all;
+	transition: 0.4s ease all;
+	cursor: pointer;
+	border-radius: 3px;
+	text-align: center;
+	border: 1px solid #e3e0ed;
+}
+.react-fickle-icons-item span {
+	display: block;
+	font-size: 12px;
+	width: 100%;
+}
+.react-fickle-icons-item i {
+	height: 30px;
+	width: 100%;
+	line-height: 30px;
+	margin-bottom: 5px;
+	font-size: 24px;
+}
+.react-fickle-icons-item:hover {
+	background: #d5cae7;
+	color: #290565;
+}
+
+.react-fickle-icons-popup {
+	position: fixed;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	z-index: -1;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-pack: center;
+	justify-content: center;
+	-ms-flex-line-pack: center;
+	align-content: center;
+	width: 100%;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	background: #f5f4f8eb;
+	transition: 0.4s ease all;
+	transform: scale3d(1.2,1.2,1.2);
+	opacity: 0;
+}
+.react-fickle-icons-popup.open {
+	transform: scale3d(1,1,1);
+	opacity: 1;
+	z-index: 999;
+}
+.react-fickle-dialog {
+	max-width: 700px;
+	margin: 0 auto;
+	background: #ffffff;
+	border: 2px solid #7447c0;
+	border-radius: 6px;
+	-webkit-box-shadow: 0px 0 5px 4px #4d478d6b;
+	box-shadow: 0px 0 8px 4px #938ecc6b;
+	padding: 30px;
+	min-width: 500px;
+}
+.react-fickle-icons-popup-header {
+	padding: 0 0 16px;
+	position: relative;
+	border-bottom: 1px solid #c5c3e7;
+}
+.react-fickle-close-icon {
+	position: absolute;
+	cursor: pointer;
+	top: -10px;
+	right: -10px;
+	width: 40px;
+	height: 40px;
+	border-radius: 100%;
+	background: transparent;
+	text-align: center;
+	font-size: 20px;
+	line-height: 40px;
+}
+.react-fickle-icons-popup-header h2 {
+	font-size: 20px;
+	margin: 0;
+	padding-right: 40px;
+	font-weight: bold;
+}
+.react-fickle-data strong {
+	text-align: center;
+	display: block;
+	font-size: 12px;
+	color: #757575;
+	text-transform: uppercase;
+	margin: 10px 0px 5px;
+	font-family: "Roboto",Helvetica,Arial,sans-serif;
+}
+.react-fickle-data p {
+	font-size: 16px;
+	margin: 0 0 10px;
+	font-weight: lighter;
+	color: #454545;
+}
+.react-fickle-data {
+	text-align: center;
+	border-bottom: 1px solid #c5c3e7;
+	padding: 20px 0;
+}
+.react-fickle-data i {
+	color: #7447c0;
+	font-size: 28px;
+}
+.react-fickle-data a:hover {
+	text-decoration: underline;
+	color: #270460;
+}
+.react-fickle-data a {
+	color: #4608ad;
+}
+.react-fickle-data code {
+	padding: 3px 6px;
+	color: #4608ad;
+	background-color: #ede8f6;
+}
+.react-fickle-icon-code code {
+	background: #ede8f6;
+	padding: 12px;
+	text-align: center;
+	color: #4608ad;
+	border: 1px solid #4608ad;
+	min-height: 80px;
+	justify-content: center;
+	align-content: center;
+	display: grid;
+	width: 100%;
+	font-size: 16px;
+}
+.react-fickle-icon-code {
+	padding: 16px 0;
+}
+.section-hr-divider {
+	border-color: #dbdaef;
+}
+.icon-search-box .icon-search-input-box {
+	border: 1px solid #dddddd;
+	padding: 0 18px;
+	min-height: 50px;
+	border-radius: 4px;
+	width: 100%;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	outline: none;
+	line-height: 48px;
+	font-weight: lighter;
+	font-size: 16px;
+	transition: 0.4s ease all;
+	box-sizing: border-box;
+}
+.icon-search-input-box:focus {
+	border-color: #4608ad;
+	background: #ede8f6;
+}
+.icon-search-box {
+	max-width: 650px;
+	margin: 0 auto;
+	position: relative;
+}
+.icon-search-btn {
+	position: absolute;
+	right: 0;
+	width: 60px;
+	top: 0;
+	line-height: 48px;
+	background: #4608ad;
+	color: #fff;
+	border: 1px solid #4608ad;
+	border-radius: 0 4px 4px 0px;
+}
+.search-box-outer {
+	padding: 50px 0 30px;
+	text-align: center;
+}
+.search-box-content {
+	max-width: 800px;
+	margin: 0 auto;
+}
+.search-box-content h2 {
+	color: #4608ad;
+	font-weight: lighter;
+	position: relative;
+	margin: 0 0 16px;
+	font-size: 36px;
+}
+.search-box-content p {
+	font-size: 18px;
+	font-weight: lighter;
+	margin: 0 0 20px;
+	display: block;
+}
+.search-box-content h2 i {
+	margin-right: 16px;
+	display: inline-block;
+}
+.react-fickle-icons-header {
+	margin-bottom: 20px;
+}
+.react-fickle-icons-header h2 {
+	color: #4608ad;
+	font-weight: lighter;
+	margin: 0;
+	font-size: 24px;
+}
+.icon-list-content-wrapper {
+	text-align: center;
+	padding: 30px 0;
+}

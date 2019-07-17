@@ -1,0 +1,51 @@
+ [
+	{
+	 "icon_name":"check-square",
+	 "icon_class":"fa fa-check-square"
+	},
+	{
+	 "icon_name":"check-square-o",
+	 "icon_class":"fa fa-check-square-o"
+	},
+	{
+	 "icon_name":"circle",
+	 "icon_class":"fa fa-circle"
+	},
+	{
+	 "icon_name":"circle-o",
+	 "icon_class":"fa fa-circle-o"
+	},
+	{
+	 "icon_name":"dot-circle-o",
+	 "icon_class":"fa fa-dot-circle-o"
+	},
+	{
+	 "icon_name":"circle-half",
+	 "icon_class":"fa fa-adjust"
+	},
+	{
+	 "icon_name":"minus-square",
+	 "icon_class":"fa fa-minus-square"
+	},
+	{
+	 "icon_name":"minus-square-o",
+	 "icon_class":"fa fa-minus-square-o"
+	},
+	{
+	 "icon_name":"plus-square",
+	 "icon_class":"fa fa-plus-square"
+	},
+	{
+	 "icon_name":"plus-square-o",
+	 "icon_class":"fa fa-plus-square-o"
+	},
+	{
+	 "icon_name":"square",
+	 "icon_class":"fa fa-square"
+	},
+	{
+	 "icon_name":"square-o",
+	 "icon_class":"fa fa-square-o"
+	}
+
+]

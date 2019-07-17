@@ -1,0 +1,343 @@
+ [
+	{
+	 "icon_name":"address-book",
+	 "icon_class":"fa fa-address-book"
+	},
+	{
+	 "icon_name":"address-book-open",
+	 "icon_class":"fa fa-address-book-o"
+	},
+	{
+	 "icon_name":"address-card",
+	 "icon_class":"fa fa-address-card"
+	},
+	{
+	 "icon_name":"address-card-open",
+	 "icon_class":"fa fa-address-card-o"
+	},
+	{
+	 "icon_name":"adjsut",
+	 "icon_class":"fa fa-adjust"
+	},
+	{
+	 "icon_name":"american-sign-language-interpreting",
+	 "icon_class":"fa fa-american-sign-language-interpreting"
+	},
+	{
+	 "icon_name":"anchor",
+	 "icon_class":"fa fa-anchor"
+	},
+	{
+	 "icon_name":"archive",
+	 "icon_class":"fa fa-archive"
+	},
+	{
+	 "icon_name":"area-chart",
+	 "icon_class":"fa fa-area-chart"
+	},
+	{
+	 "icon_name":"arrows",
+	 "icon_class":"fa fa-arrows"
+	},
+	{
+	 "icon_name":"arrows-h",
+	 "icon_class":"fa fa-arrows-h"
+	},
+	{
+	 "icon_name":"arrows-v",
+	 "icon_class":"fa fa-arrows-v"
+	},
+	{
+	 "icon_name":"assistive-listening-systems",
+	 "icon_class":"fa fa-assistive-listening-systems"
+	},
+	{
+	 "icon_name":"american-sign-language-interpreting",
+	 "icon_class":"fa fa-american-sign-language-interpreting"
+	},
+	{
+	 "icon_name":"asterisk ",
+	 "icon_class":"fa fa-asterisk "
+	},
+	{
+	 "icon_name":"at",
+	 "icon_class":"fa fa-at"
+	},
+	{
+	 "icon_name":"audio-description",
+	 "icon_class":"fa fa-audio-description"
+	},
+	{
+	 "icon_name":"car",
+	 "icon_class":"fa fa-car"
+	},
+	{
+	 "icon_name":"balance-scale",
+	 "icon_class":"fa fa-balance-scale"
+	},
+	{
+	 "icon_name":"ban",
+	 "icon_class":"fa fa-ban"
+	},
+	{
+	 "icon_name":"bank",
+	 "icon_class":"fa fa-bank"
+	},
+	{
+	 "icon_name":"bar-chart",
+	 "icon_class":"fa fa-bar-chart"
+	},
+	{
+	 "icon_name":"bar-chart-open",
+	 "icon_class":"fa fa-bar-chart-o"
+	},
+	{
+	 "icon_name":"barcode",
+	 "icon_class":"fa fa-barcode"
+	},
+	{
+	 "icon_name":"barrs",
+	 "icon_class":"fa fa-bars"
+	},
+	{
+	 "icon_name":"bath",
+	 "icon_class":"fa fa-bath"
+	},
+	{
+	 "icon_name":"bathtub",
+	 "icon_class":"fa fa-bathtub"
+	},
+	{
+	 "icon_name":"bettery",
+	 "icon_class":"fa fa-battery"
+	},
+	{
+	 "icon_name":"bettery-0",
+	 "icon_class":"fa fa-battery-0"
+	},
+	{
+	 "icon_name":"bettery-1",
+	 "icon_class":"fa fa-battery-1"
+	},
+	{
+	 "icon_name":"bettery-2",
+	 "icon_class":"fa fa-battery-2"
+	},
+	{
+	 "icon_name":"bettery-3",
+	 "icon_class":"fa fa-battery-3"
+	},
+	{
+	 "icon_name":"bettery-4",
+	 "icon_class":"fa fa-battery-4"
+	},
+	{
+	 "icon_name":"bettery-full",
+	 "icon_class":"fa fa-battery-full"
+	},
+	{
+	 "icon_name":"bettery-half",
+	 "icon_class":"fa fa-battery-half"
+	},
+	{
+	 "icon_name":"bettery",
+	 "icon_class":"fa fa-battery-empty"
+	},
+	{
+	 "icon_name":"bettery-quarter",
+	 "icon_class":"fa fa-battery-quarter"
+	},
+	{
+	 "icon_name":"bettery-three-quarters",
+	 "icon_class":"fa fa-battery-three-quarters"
+	},
+	{
+	 "icon_name":"bed",
+	 "icon_class":"fa fa-bed"
+	},
+	{
+	 "icon_name":"beer",
+	 "icon_class":"fa fa-beer"
+	},
+	{
+	 "icon_name":"bell",
+	 "icon_class":"fa fa-bell"
+	},
+	{
+	 "icon_name":"bell",
+	 "icon_class":"fa fa-bell-o"
+	},
+	{
+	 "icon_name":"bell-slash",
+	 "icon_class":"fa fa-bell-slash"
+	},
+	{
+	 "icon_name":"bell-slash-open",
+	 "icon_class":"fa fa-bell-slash-o"
+	},
+	{
+	 "icon_name":"bicycle ",
+	 "icon_class":"fa fa-bicycle "
+	},
+	{
+	 "icon_name":"binoculars ",
+	 "icon_class":"fa fa-binoculars "
+	},
+	{
+	 "icon_name":"birthday-cake",
+	 "icon_class":"fa fa-birthday-cake"
+	},
+	{
+	 "icon_name":"blind",
+	 "icon_class":"fa fa-blind"
+	},
+	{
+	 "icon_name":"bluetooth",
+	 "icon_class":"fa fa-bluetooth"
+	},
+	{
+	 "icon_name":"bluetooth-b",
+	 "icon_class":"fa fa-bluetooth-b"
+	},
+	{
+	 "icon_name":"bolt",
+	 "icon_class":"fa fa-bolt"
+	},
+	{
+	 "icon_name":"bomb",
+	 "icon_class":"fa fa-bomb"
+	},
+	{
+	 "icon_name":"book",
+	 "icon_class":"fa fa-book"
+	},
+	{
+	 "icon_name":"bookmark",
+	 "icon_class":"fa fa-bookmark"
+	},
+	{
+	 "icon_name":"bookmark-o",
+	 "icon_class":"fa fa-bookmark-o"
+	},
+	{
+	 "icon_name":"braille",
+	 "icon_class":"fa fa-braille"
+	},
+	{
+	 "icon_name":"briefcase ",
+	 "icon_class":"fa fa-briefcase "
+	},
+	{
+	 "icon_name":"bug",
+	 "icon_class":"fa fa-bug"
+	},
+	{
+	 "icon_name":"building",
+	 "icon_class":"fa fa-building"
+	},
+	{
+	 "icon_name":"building-o",
+	 "icon_class":"fa fa-building-o"
+	},
+	{
+	 "icon_name":"bullhorn",
+	 "icon_class":"fa fa-bullhorn"
+	},
+	{
+	 "icon_name":"bullseye",
+	 "icon_class":"fa fa-bullseye"
+	},
+	{
+	 "icon_name":"bus",
+	 "icon_class":"fa fa-bus"
+	},
+	{
+	 "icon_name":"cab",
+	 "icon_class":"fa fa-cab"
+	},
+	{
+	 "icon_name":"calculator",
+	 "icon_class":"fa fa-calculator"
+	},
+	{
+	 "icon_name":"calendar",
+	 "icon_class":"fa fa-calendar"
+	},
+	{
+	 "icon_name":"calendar-o",
+	 "icon_class":"fa fa-calendar-o"
+	},
+	{
+	 "icon_name":"calendar-check-o",
+	 "icon_class":"fa fa-calendar-check-o"
+	},
+	{
+	 "icon_name":"calendar-minus-o",
+	 "icon_class":"fa fa-calendar-minus-o"
+	},
+	{
+	 "icon_name":"calendar-plus-o",
+	 "icon_class":"fa fa-calendar-plus-o"
+	},
+	{
+	 "icon_name":"calendar-times-o",
+	 "icon_class":"fa fa-calendar-times-o"
+	},
+	{
+	 "icon_name":"camara",
+	 "icon_class":"fa fa-camara"
+	},
+	{
+	 "icon_name":"camara-retro",
+	 "icon_class":"fa fa-camara-retro"
+	},
+	{
+	 "icon_name":"car",
+	 "icon_class":"fa fa-car"
+	},
+	{
+	 "icon_name":"caret-square-o-down",
+	 "icon_class":"fa fa-caret-square-o-down"
+	},
+	{
+	 "icon_name":"caret-square-o-up",
+	 "icon_class":"fa fa-caret-square-o-up"
+	},
+	{
+	 "icon_name":"caret-square-o-left",
+	 "icon_class":"fa fa-caret-square-o-left"
+	},
+	{
+	 "icon_name":"caret-square-o-right",
+	 "icon_class":"fa fa-caret-square-o-right"
+	},
+	{
+	 "icon_name":"cart-arrow-down",
+	 "icon_class":"fa fa-cart-arrow-down"
+	},
+	{
+	 "icon_name":"cart-plus",
+	 "icon_class":"fa fa-cart-plus"
+	},
+	{
+	 "icon_name":"cc",
+	 "icon_class":"fa fa-cc"
+	},
+	{
+	 "icon_name":"certificate",
+	 "icon_class":"fa fa-certificate"
+	},
+	{
+	 "icon_name":"check",
+	 "icon_class":"fa fa-check"
+	},
+	{
+	 "icon_name":"check-circle",
+	 "icon_class":"fa fa-check-circle"
+	},
+	{
+	 "icon_name":"check-circle-o",
+	 "icon_class":"fa fa-check-circle-o"
+	}
+
+]
