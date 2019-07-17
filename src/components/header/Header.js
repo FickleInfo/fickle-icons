@@ -15,12 +15,12 @@ class Header extends Component {
             <nav className="header-navigation">
              <ul className="header-menu-list">
                <li>
-                <NavLink to={"#"}>
+                <NavLink to={'/fontawesome/'}>
                 	<span>FontAwesome</span>
                 </NavLink>
                </li>
                <li>
-                <NavLink to={"#"}>
+                <NavLink to={'/simpleline/'}>
                 	<span>SimpleLine</span>
                 </NavLink>
                </li>
