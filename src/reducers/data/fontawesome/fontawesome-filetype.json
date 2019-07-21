@@ -1,0 +1,74 @@
+ [
+	{
+	 "icon_name":"file",
+	 "icon_class":"fa fa-file"
+	},
+	{
+	 "icon_name":"file-archive-o",
+	 "icon_class":"fa fa-file-archive-o"
+	},
+	{
+	 "icon_name":"file-audio-o",
+	 "icon_class":"fa fa-file-audio-o"
+	},
+	{
+	 "icon_name":"file-code-o",
+	 "icon_class":"fa fa-file-code-o"
+	},
+	{
+	 "icon_name":"file-excel-o",
+	 "icon_class":"fa fa-file-excel-o"
+	},
+	{
+	 "icon_name":"file-image-o",
+	 "icon_class":"fa fa-file-image-o"
+	},
+	{
+	 "icon_name":"file-movie-o",
+	 "icon_class":"fa fa-file-movie-o"
+	},
+	{
+	 "icon_name":"file-o",
+	 "icon_class":"fa fa-file-o"
+	},
+	{
+	 "icon_name":"file-pdf-o",
+	 "icon_class":"fa fa-file-pdf-o"
+	},
+	{
+	 "icon_name":"file-photo-o",
+	 "icon_class":"fa fa-file-photo-o"
+	},
+	{
+	 "icon_name":"file-picture-o",
+	 "icon_class":"fa fa-file-picture-o"
+	},
+	{
+	 "icon_name":"file-powerpoint-o",
+	 "icon_class":"fa fa-file-powerpoint-o"
+	},
+	{
+	 "icon_name":"file-sound-o",
+	 "icon_class":"fa fa-file-sound-o"
+	},
+	{
+	 "icon_name":"file-text",
+	 "icon_class":"fa fa-file-text"
+	},
+	{
+	 "icon_name":"file-text-o",
+	 "icon_class":"fa fa-file-text-o"
+	},
+	{
+	 "icon_name":"file-video-o",
+	 "icon_class":"fa fa-file-video-o"
+	},
+	{
+	 "icon_name":"file-word-o",
+	 "icon_class":"fa fa-file-word-o"
+	},
+	{
+	 "icon_name":"file-zip-o",
+	 "icon_class":"fa fa-file-zip-o"
+	}
+]

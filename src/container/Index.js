@@ -8,10 +8,12 @@ import HomeIndex from './homepage/Index';
 class App extends Component {
     render() {
         return (
-            <div>                
+            <div>     
+             <Switch>           
                 <Route exact path="/" component={HomeIndex} /> 
                 <Route path="/fontawesome/" component={FontAwesomeIconsIndex} /> 
                 <Route path="/simpleline/" component={SimpleLineIconsIndex} /> 
+               </Switch>
             </div>
         );
     }

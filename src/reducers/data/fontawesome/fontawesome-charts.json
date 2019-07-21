@@ -1,0 +1,22 @@
+ [
+	{
+	 "icon_name":"area-chart",
+	 "icon_class":"fa fa-area-chart"
+	},
+	{
+	 "icon_name":"bar-chart",
+	 "icon_class":"fa fa-bar-chart"
+	},
+	{
+	 "icon_name":"bar-chart-open",
+	 "icon_class":"fa fa-bar-chart-o"
+	},
+	{
+	 "icon_name":"line chart",
+	 "icon_class":"fa fa-line-chart"
+	},
+	{
+	 "icon_name":"pie-chart",
+	 "icon_class":"fa fa-pie-chart"
+	}
+]
