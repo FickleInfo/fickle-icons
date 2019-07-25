@@ -59,6 +59,4 @@ function mapStateToProps(state) {
     console.log(WebIcon, 'WebIcon')
     return {WebIcon}
 }
-// export default withRouter(connect(mapStateToProps)(IconListItem));
-
-export default IconListItem
+export default withRouter(connect(mapStateToProps)(IconListItem));

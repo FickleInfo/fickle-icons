@@ -1,4 +1,6 @@
-import React, { Component } from 'react';
+import React, {Component} from 'react';
+import {connect} from 'react-redux';
+import {Switch, withRouter} from 'react-router-dom';
 import {Icon} from '@fickleinfo/react-icons';
 import IconDetails from './IconDetails';
 
@@ -52,4 +54,9 @@ class IconListItem extends Component {
   }
 }
 
-export default IconListItem;
+function mapStateToProps(state) {
+    const {WebIcon} = state.fontawesomeReducer;
+    console.log(WebIcon, 'WebIcon')
+    return {WebIcon}
+}
+export default withRouter(connect(mapStateToProps)(IconListItem));
