@@ -11,6 +11,9 @@ import CurrancyIcon from '../dist/fontawesome-currency.json';
 import FileTypeIcon from '../dist/fontawesome-filetype.json';
 import PaymentIcon from '../dist/fontawesome-payment.json';
 import VideoPlayerIcon from '../dist/fontawesome-video-player.json';
+import GenderIcon from '../dist/fontawesome-gender.json';
+import TextEditorIcon from '../dist/fontawesome-text-editor.json';
+
 import {Icon} from '@fickleinfo/react-icons';
 import Header from '../../components/header/Header';
 import SearchBox from '../../components/icons/SearchBox';
@@ -42,8 +45,13 @@ class FontAwesomeIconsIndex extends Component {
            <hr className="section-hr-divider" />
            <section className="icon-list-content-wrapper">            
              <IconListItem ListTitle="Set #1 - File Types Icons" ListData={FileTypeIcon} />
+           </section> 
+           <hr className="section-hr-divider" />
+           <section className="icon-list-content-wrapper">            
+             <IconListItem ListTitle="Set #1 - Gender Icons" ListData={GenderIcon} />
            </section>           
            <hr className="section-hr-divider" />
+           
            <section className="icon-list-content-wrapper">            
              <IconListItem ListTitle="Set #1 - Form Control Icons" ListData={FormIcon} />
            </section>  
@@ -65,7 +73,7 @@ class FontAwesomeIconsIndex extends Component {
            </section>           
             <hr className="section-hr-divider" />
            <section className="icon-list-content-wrapper">            
-             <IconListItem ListTitle="Set #2 - Social Icons" ListData={SocialMediaIcon} />
+             <IconListItem ListTitle="Set #2 - Text Editors Icons" ListData={TextEditorIcon} />
            </section>             
           </div>               
         </main>

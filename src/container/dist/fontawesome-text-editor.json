@@ -1,0 +1,207 @@
+ [
+	{
+	 "icon_name":"align-center",
+	 "icon_class":"fa fa-align-center"
+	},
+	{
+	 "icon_name":"align-justify",
+	 "icon_class":"fa fa-align-justify"
+	},
+	{
+	 "icon_name":"align-left",
+	 "icon_class":"fa fa-align-left"
+	},
+	{
+	 "icon_name":"align-right",
+	 "icon_class":"fa fa-align-right"
+	},
+	{
+	 "icon_name":"bold",
+	 "icon_class":"fa fa-bold"
+	},
+	{
+	 "icon_name":"chain",
+	 "icon_class":"fa fa-chain"
+	},
+	{
+	 "icon_name":"chain-broken",
+	 "icon_class":"fa fa-chain-broken"
+	},
+	{
+	 "icon_name":"clipboard",
+	 "icon_class":"fa fa-clipboard"
+	},
+	{
+	 "icon_name":"columns",
+	 "icon_class":"fa fa-columns"
+	},
+	{
+	 "icon_name":"copy",
+	 "icon_class":"fa fa-copy"
+	},
+	{
+	 "icon_name":"cut",
+	 "icon_class":"fa fa-cut"
+	},
+	{
+	 "icon_name":"dedent",
+	 "icon_class":"fa fa-dedent"
+	},
+	{
+	 "icon_name":"eraser",
+	 "icon_class":"fa fa-eraser"
+	},
+	{
+	 "icon_name":"file",
+	 "icon_class":"fa fa-file"
+	},
+	{
+	 "icon_name":"file-o",
+	 "icon_class":"fa fa-file-o"
+	},
+	{
+	 "icon_name":"file-text",
+	 "icon_class":"fa fa-file-text"
+	},
+	{
+	 "icon_name":"file-text-o",
+	 "icon_class":"fa fa-file-text-o"
+	},
+	{
+	 "icon_name":"files-o",
+	 "icon_class":"fa fa-files-o"
+	},
+	{
+	 "icon_name":"floppy-o",
+	 "icon_class":"fa fa-floppy-o"
+	},
+	{
+	 "icon_name":"font",
+	 "icon_class":"fa fa-font"
+	},
+	{
+	 "icon_name":"header",
+	 "icon_class":"fa fa-header"
+	},
+	{
+	 "icon_name":"indent",
+	 "icon_class":"fa fa-indent"
+	},
+	
+	{
+	 "icon_name":"italic",
+	 "icon_class":"fa fa-italic"
+	},
+	
+	{
+	 "icon_name":"link",
+	 "icon_class":"fa fa-link"
+	},
+	
+	{
+	 "icon_name":"list",
+	 "icon_class":"fa fa-list"
+	},
+	
+	{
+	 "icon_name":"list-alt",
+	 "icon_class":"fa fa-list-alt"
+	},
+	
+	{
+	 "icon_name":"list-ol",
+	 "icon_class":"fa fa-list-ol"
+	},
+	
+	{
+	 "icon_name":"list-ul",
+	 "icon_class":"fa fa-list-ul"
+	},
+	
+	{
+	 "icon_name":"outdent",
+	 "icon_class":"fa fa-outdent"
+	},
+	
+	{
+	 "icon_name":"paperclip",
+	 "icon_class":"fa fa-paperclip"
+	},
+	
+	{
+	 "icon_name":"paragraph",
+	 "icon_class":"fa fa-paragraph"
+	},
+	{
+	 "icon_name":"paste",
+	 "icon_class":"fa fa-paste"
+	},
+	{
+	 "icon_name":"repeat",
+	 "icon_class":"fa fa-repeat"
+	},
+	{
+	 "icon_name":"rotate-left",
+	 "icon_class":"fa fa-rotate-left"
+	},
+	{
+	 "icon_name":"rotate-right",
+	 "icon_class":"fa fa-rotate-right"
+	},
+	{
+	 "icon_name":"save",
+	 "icon_class":"fa fa-save"
+	},
+	{
+	 "icon_name":"scissors",
+	 "icon_class":"fa fa-scissors"
+	},
+	{
+	 "icon_name":"strikethrough",
+	 "icon_class":"fa fa-strikethrough"
+	},
+	{
+	 "icon_name":"subscript",
+	 "icon_class":"fa fa-subscript"
+	},
+	{
+	 "icon_name":"superscript",
+	 "icon_class":"fa fa-superscript"
+	},
+	{
+	 "icon_name":"table",
+	 "icon_class":"fa fa-table"
+	},
+	{
+	 "icon_name":"text-height",
+	 "icon_class":"fa fa-text-height"
+	},
+	{
+	 "icon_name":"text-width",
+	 "icon_class":"fa fa-text-width"
+	},
+	{
+	 "icon_name":"th",
+	 "icon_class":"fa fa-th"
+	},
+	{
+	 "icon_name":"th-large",
+	 "icon_class":"fa fa-th-large"
+	},
+	{
+	 "icon_name":"th-list",
+	 "icon_class":"fa fa-th-list"
+	},
+	{
+	 "icon_name":"underline",
+	 "icon_class":"fa fa-underline"
+	},
+	{
+	 "icon_name":"undo",
+	 "icon_class":"fa fa-undo"
+	},
+	{
+	 "icon_name":"unlink",
+	 "icon_class":"fa fa-unlink"
+	}
+]

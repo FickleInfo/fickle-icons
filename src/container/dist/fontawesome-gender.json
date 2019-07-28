@@ -1,0 +1,58 @@
+ [
+	{
+	 "icon_name":"genderless",
+	 "icon_class":"fa fa-genderless"
+	},
+	{
+	 "icon_name":"intersex",
+	 "icon_class":"fa fa-intersex"
+	},
+	{
+	 "icon_name":"mars",
+	 "icon_class":"fa fa-mars"
+	},
+	{
+	 "icon_name":"mars-double",
+	 "icon_class":"fa fa-mars-double"
+	},
+	{
+	 "icon_name":"mars-stroke",
+	 "icon_class":"fa fa-mars-stroke"
+	},
+	{
+	 "icon_name":"mars-stroke-h",
+	 "icon_class":"fa fa-mars-stroke-h"
+	},
+	{
+	 "icon_name":"mars-storke-v",
+	 "icon_class":"fa fa-mars-storke-v"
+	},
+	{
+	 "icon_name":"mercury",
+	 "icon_class":"fa fa-mercury"
+	},
+	{
+	 "icon_name":"neuter",
+	 "icon_class":"fa fa-neuter"
+	},
+	{
+	 "icon_name":"transgender",
+	 "icon_class":"fa fa-transgender"
+	},
+	{
+	 "icon_name":"transgender-alt",
+	 "icon_class":"fa fa-transgender-alt"
+	},
+	{
+	 "icon_name":"venus",
+	 "icon_class":"fa fa-venus"
+	},
+	{
+	 "icon_name":"venus-double",
+	 "icon_class":"fa fa-venus-double"
+	},
+		{
+	 "icon_name":"venus-mars",
+	 "icon_class":"fa fa-venus-mars"
+	}
+]
