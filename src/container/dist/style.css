@@ -164,6 +164,7 @@
 	display: grid;
 	width: 100%;
 	font-size: 16px;
+	border-radius: 4px
 }
 .react-fickle-icon-code {
 	padding: 16px 0;
@@ -195,16 +196,36 @@
 	margin: 0 auto;
 	position: relative;
 }
+.no-data-found {
+	border: 1px solid #dbdaef;
+	text-align: center;
+	padding: 30px;
+	width: 100%;
+	border-radius: 3px;
+}
+.react-fickle-icons-content li.no-data-found-container {
+	display: block;
+	width: 100%;
+	max-width: 100%;
+	flex: 0 0 100%;
+}
+.no-data-found p {
+	font-size: 20px;
+	font-weight: bold;
+	color: #666;
+}
 .icon-search-btn {
 	position: absolute;
 	right: 0;
-	width: 60px;
+	width: 52px;
 	top: 0;
 	line-height: 48px;
-	background: #4608ad;
-	color: #fff;
-	border: 1px solid #4608ad;
+	background: transparent;
+	color: #9a76d5;
+	border: none;
 	border-radius: 0 4px 4px 0px;
+	cursor: pointer;
+	font-size: 20px;
 }
 .search-box-outer {
 	padding: 50px 0 30px;
@@ -243,4 +264,65 @@
 .icon-list-content-wrapper {
 	text-align: center;
 	padding: 30px 0;
+}
+
+@media(max-width: 640px){
+.react-fickle-icons-content li {
+	flex: 0 0 50%;
+	max-width: 50%;
+}
+.search-box-content h2 {
+	margin: 0 0 10px;
+	font-size: 24px;
+	text-align: center;
+}
+.search-box-content h2 i {
+	margin-right: 0;
+	display: block;
+	margin-bottom: 10px;
+	font-size: 30px;
+}
+.search-box-content p {
+	font-size: 14px;
+}
+.search-box-outer {
+	padding: 30px 0 20px;
+}
+.icon-list-content-wrapper {
+	padding: 20px 0;
+}
+.section-hr-divider {
+	margin: 10px 0;
+}
+.react-fickle-icons-header h2 {
+	font-size: 18px;
+}
+.react-fickle-dialog {
+	width: 700px;
+	padding: 15px;
+	min-width: 100%;
+	max-width: 100%;
+}
+.react-fickle-icons-popup {
+	padding: 15px;
+}
+.react-fickle-icon-code code{
+	min-height: 65px;
+	padding: 10px;
+}
+.header-navigation {
+	text-align: center;
+	vertical-align: middle;
+	width: 100%;
+	display: inline-block;
+}
+.header-section {
+	border-bottom: 1px solid #d4d6d9;
+}
+}
+@media(min-width: 641px) and (max-width: 1024px){
+	.react-fickle-icons-content li {
+	max-width: 25%;
+	flex: 0 0 25%;
+}
 }

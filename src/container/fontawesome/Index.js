@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { withRouter} from 'react-router-dom';
-import IconListItem from './IconListItem';
+import IconListItem from '../../components/icons/IconListItem';
 import '../dist/style.css';
 import WebIcon from '../dist/fontawesome-web.json';
 import FormIcon from '../dist/fontawesome-form.json';
@@ -13,14 +13,22 @@ import PaymentIcon from '../dist/fontawesome-payment.json';
 import VideoPlayerIcon from '../dist/fontawesome-video-player.json';
 import {Icon} from '@fickleinfo/react-icons';
 import Header from '../../components/header/Header';
-import SearchBox from './SearchBox';
+import SearchBox from '../../components/icons/SearchBox';
 
 class FontAwesomeIconsIndex extends Component {
   render() {
     return (
       <div className="main-body-wrapper"> 
-        <Header />      
-        <SearchBox />
+        <Header />     
+        <section className="search-box-outer">
+         <div className="container">
+          <div className="search-box-content">
+           <h2><Icon name="fa fa-heart" /> Fickle FontAwesome Icons </h2>
+           <p>Search 1000+ icons from FontAwesome Library, and use to your projects</p>
+           <SearchBox placeholder="Search for FontAwesome  icons" />
+         </div>
+         </div>
+      </section>
         <main className="main-content-wrapper"> 
         <div className="container">
           <hr className="section-hr-divider" />

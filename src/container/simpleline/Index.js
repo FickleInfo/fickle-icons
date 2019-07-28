@@ -1,19 +1,26 @@
 import React, { Component } from 'react';
 import { withRouter} from 'react-router-dom';
 import {connect} from 'react-redux';
+import {Icon} from '@fickleinfo/react-icons';
 import IconListItem from '../../components/icons/IconListItem';
 import '../dist/style.css';
-import SimpleLineIcon from './dist/simplelineicon.json';
 import Header from '../../components/header/Header';
-import SearchBox from './SearchBox';
+import SearchBox from '../../components/icons/SearchBox';
 
 class SimpleLineIconsIndex extends Component {
-  isSearched = (query) => (item) => !query || item.name.toLowerCase().indexOf(query.toLowerCase()) !== -1;
   render() {
     return (
       <div className="main-body-wrapper"> 
-        <Header />      
-        <SearchBox />
+         <Header />     
+         <section className="search-box-outer">
+          <div className="container">
+           <div className="search-box-content">
+             <h2><Icon name="fa fa-bolt" /> Fickle SimpleLine Icons </h2>
+             <p>Search icons from SimpleLine Icons Library, and use to your projects</p>
+             <SearchBox placeholder="Search for SimpleLine icons" />
+           </div>
+          </div>
+        </section>
         <main className="main-content-wrapper"> 
         <div className="container">
           <hr className="section-hr-divider" />
@@ -30,8 +37,7 @@ class SimpleLineIconsIndex extends Component {
 }
 
 function mapStateToProps(state) {
-    const {SimpleLineIconList} = state.simplelineReducer;
-    console.log(SimpleLineIconList, 'SimpleLineIconList')
-    return {SimpleLineIconList}
+    const {SimpleLineIconList, searchedQuery} = state.iconsReducer;
+    return {SimpleLineIconList, searchedQuery}
 }
 export default withRouter(connect(mapStateToProps)(SimpleLineIconsIndex));

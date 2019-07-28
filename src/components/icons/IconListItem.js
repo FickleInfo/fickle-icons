@@ -17,9 +17,6 @@ class IconListItem extends Component {
       popupStatus : !this.state.popupStatus,
       iconData: icon
     })
-   console.log(icon,'hi')
-
-
   }
 
   handlePopupClose(e){
@@ -29,23 +26,36 @@ class IconListItem extends Component {
     })
   }
 
+  isSearched = (query) => (item) => !query || item.icon_name.toLowerCase().indexOf(query.toLowerCase()) !== -1;
   render() {
     const {iconData, popupStatus} = this.state;
+    const {ListData, searchedQuery, ListTitle} = this.props;
+
+    let searchResult = [];
+    if(ListData.length > 0){   
+     searchResult = ListData.filter(this.isSearched(searchedQuery))
+    }
+
     return (
       <div className="react-fickle-icons-item-outer">
          <div className="react-fickle-icons-header">
-          <h2>{this.props.ListTitle}</h2>
+          <h2>{ListTitle}</h2>
         </div>         
         <div className="react-fickle-icons-content">
             <ul>
-              {this.props.ListData.map((icon, index) => (
+              {searchResult.length > 0 ? 
+                searchResult.filter(this.isSearched(searchedQuery)).map((icon, index) => (
                 <li key={index}>
                   <div className="react-fickle-icons-item" onClick={() => this.handleOpenPopup(icon)}>
                     <Icon name={icon.icon_class} />
                     <span>{icon.icon_name}</span>
                   </div>
-               </li>
-               ))}              
+               </li>)) : 
+                (<li className="no-data-found-container">
+                  <div className="no-data-found">
+                     <p>No Icons Found!!!</p>
+                  </div>
+                </li>)}              
             </ul>
         </div>
         <IconDetails  popupStatus={popupStatus}  iconData={iconData} handlePopupClose={this.handlePopupClose.bind(this)}/>
@@ -55,8 +65,7 @@ class IconListItem extends Component {
 }
 
 function mapStateToProps(state) {
-    const {WebIcon} = state.fontawesomeReducer;
-    console.log(WebIcon, 'WebIcon')
-    return {WebIcon}
+    const {searchedQuery} = state.iconsReducer;
+    return {searchedQuery}
 }
 export default withRouter(connect(mapStateToProps)(IconListItem));
